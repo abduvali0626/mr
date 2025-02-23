@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../12-dekabr"
+		},
+		{
+			"path": "../14-dekabr"
+		},
+		{
+			"path": "../16-noyabr"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "28-noyabr",
+		"liveServer.settings.port": 5502
+	}
+}
